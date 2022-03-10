@@ -10,7 +10,7 @@ git add -u                => Moves only modified files to the staging area (igno
 git commit                => Saves stages files to the repository 
                                (Running this command opens a commit editor to enter commit message, to close this editor press ESC then :x! ENTER )                               
 git diff --staged HEAD    => diff b/w staged content and recent commit  
-git diff                  => diff b/w working copy and staging area(index)  
+git diff                  => diff b/w working copy and staging area(index)  git 
 git commit -m "<<MSG>>"   => Inline commit message, Saves changes to the repository
 git log
 git log -n               => View recent n commints
